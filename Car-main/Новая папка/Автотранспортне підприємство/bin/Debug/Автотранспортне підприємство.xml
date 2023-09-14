@@ -1,0 +1,872 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Автотранспортнепідприємство
+</name>
+</assembly>
+<members>
+<member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтомобіліDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ВантажіDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Марки_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПосадиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПрацівникиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.РейсиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтопаркDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Відділ_кадрівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ЗамовленняDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Перевозяться_вантажіDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ТранспортуванняDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_замовниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_оплачених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_повернених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_окремих_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_оплачених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_повернених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_посадиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.seredniy_okladDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.vikDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтомобіліRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ВантажіRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Марки_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПосадиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПрацівникиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.РейсиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтопаркRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Відділ_кадрівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ЗамовленняRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Перевозяться_вантажіRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ТранспортуванняRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_замовниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_оплачених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_повернених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_окремих_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_оплачених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_повернених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_посадиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.seredniy_okladRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.vikRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтомобіліRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ВантажіRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Види_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Марки_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПосадиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ПрацівникиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.РейсиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.АвтопаркRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Відділ_кадрівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ЗамовленняRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Перевозяться_вантажіRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.ТранспортуванняRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_види_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_замовниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_оплачених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_Не_повернених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_окремих_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_оплачених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_повернених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.Фільтр_посадиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.seredniy_okladRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1.vikRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.АвтомобіліTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.ВантажіTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Види_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Види_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Марки_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.ПосадиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.ПрацівникиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.РейсиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.АвтопаркTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Відділ_кадрівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.ЗамовленняTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Перевозяться_вантажіTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.ТранспортуванняTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_види_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_види_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_замовниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_Не_оплачених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_Не_повернених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_окремих_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_оплачених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_повернених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.Фільтр_посадиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.seredniy_okladTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.vikTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.UpdateAll(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтомобіліDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ВантажіDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Марки_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПосадиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПрацівникиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.РейсиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтопаркDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Відділ_кадрівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ЗамовленняDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Перевозяться_вантажіDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ТранспортуванняDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_автомобілівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_замовниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_оплачених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_повернених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_окремих_вантажівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_оплачених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_повернених_замовленьDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_посадиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.seredniy_okladDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.vikDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтомобіліRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ВантажіRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Марки_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПосадиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПрацівникиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.РейсиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтопаркRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Відділ_кадрівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ЗамовленняRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Перевозяться_вантажіRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ТранспортуванняRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_автомобілівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_замовниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_оплачених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_повернених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_окремих_вантажівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_оплачених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_повернених_замовленьRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_посадиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.seredniy_okladRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.vikRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтомобіліRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ВантажіRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Види_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Марки_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПосадиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ПрацівникиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.РейсиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.АвтопаркRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Відділ_кадрівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ЗамовленняRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Перевозяться_вантажіRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.ТранспортуванняRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_автомобілівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_види_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_замовниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_оплачених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_Не_повернених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_окремих_вантажівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_оплачених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_повернених_замовленьRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.Фільтр_посадиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.seredniy_okladRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet.vikRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.АвтомобіліTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.ВантажіTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Види_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Види_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Марки_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.ПосадиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.ПрацівникиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.РейсиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.АвтопаркTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Відділ_кадрівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.ЗамовленняTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Перевозяться_вантажіTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.ТранспортуванняTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_види_автомобілівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_види_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_замовниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_Не_оплачених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_Не_повернених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_окремих_вантажівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_оплачених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_повернених_замовленьTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.Фільтр_посадиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.seredniy_okladTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.vikTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.UpdateAll(Автотранспортне_підприємство.Автотранспортне_підприємствоDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Автотранспортне_підприємство.Автотранспортне_підприємствоDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Автотранспортне_підприємство.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Автотранспортне_підприємство.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Автотранспортне_підприємство.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
